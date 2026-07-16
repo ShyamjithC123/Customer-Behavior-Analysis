@@ -182,7 +182,7 @@ Data-Analytics-Project/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/your-repository.git
+git clone https://github.com/ShyamjithC123/your-repository.git
 ```
 
 ### 2. Install Required Python Libraries
